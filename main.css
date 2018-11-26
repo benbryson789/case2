@@ -85,9 +85,9 @@ ul li {
 
 .contact {
 	border: 2px #D3D3D3;
-    padding: 20px;
-    max-width: 700px;
-    text-align: center;
+        padding: 20px;
+        max-width: 700px;
+        margin: 0 auto;
 }
 
 @media only screen and (max-width: 750px) {
@@ -119,10 +119,10 @@ ul li {
 
 
 .anchor{
-	opacity: 0.2;
+	
 	height: 125px;
 	width: 125px;
-	background-image: padding-box;
+	
 }
 
 .menuheading {
@@ -130,11 +130,6 @@ ul li {
 }
 
 
-.wrapper {
-	max-width: 750px;
-	padding: 20px;
-	text-align: center;
-}
 
 
 .menu__paragraph{
